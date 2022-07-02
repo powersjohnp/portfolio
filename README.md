@@ -2,6 +2,9 @@
 Example excerpts from code I have written for research projects  
 
 ### R  
+multilevel_modeling.R  
+This script runs multilevel modeling analyses to test the significance of a level 1 predictor.  
+
 data_summary.R  
 This script extracts data from research task log files and saves a summarized form of these data to a .csv file for analysis.  
 
