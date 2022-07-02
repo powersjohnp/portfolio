@@ -1,6 +1,10 @@
 # portfolio
 Example excerpts from code I have written for research projects  
 
+### R  
+data_summary.R  
+This script extracts data from research task log files and saves a summarized form of these data to a .csv file for analysis.  
+
 ### MATLAB  
 task_pseudorandomization.m  
 This script performs trial order pseudorandomization for a research task with a complex design, in which many conditions had to be balanced and ordered in very specific ways. It was called at the beginning of a task script, when research participants completed said task while undergoing fMRI scanning of brain activity.  
