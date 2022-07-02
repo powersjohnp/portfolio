@@ -1,3 +1,6 @@
+# This script runs a series of multilevel models to test the significance of level 1 predictors.  
+# It outputs a .csv file with the coefficients for the predictors as well as confidence intervals for these coefficients.  
+
 # general setup
 library(lme4)
 library(dplyr)
