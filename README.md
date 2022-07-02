@@ -12,6 +12,9 @@ This script performs trial order pseudorandomization for a research task with a 
 research_task.m  
 This function runs a research task using the PsychToolBox package for MATLAB. Research participants completed this task, which involved viewing images and making ratings, while undergoing fMRI scanning of brain activity.  
 
+discrete_sampling.m  
+This function generates a set of values from a discrete distribution that matches various user-specified criteria. It was used to generate a variable that is needed for fMRI research task designs.   
+
 ### BASH  
 data_extraction.sh  
 This script extracts data from log files that were generated while participants completed a research task in an MRI scanner. These data are then reconstructed into files that will be used for analyses of brain activity.
