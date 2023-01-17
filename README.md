@@ -2,10 +2,11 @@
 Example excerpts from code I have written for research projects  
 
 ### Python  
+self_injury_machine_learning.ipynb  
+This Jupyter notebook demonstrates code I have written for a project using machine learning to study suicidality in adolescents. Although reduced for demonstration purposes, this notebook is relatively comprehensive, covering exploratory data analysis, preprocessing, modeling, and interpretation.  
+
 analysis_and_figures.py  
 This script preprocesses data from a research task to compute key measures. Basic regression analyses are then run using these measures and accompanying figures are produced. This script was designed to automate basic data summaries and analyses for periodic progress reports for a clinical trial.  
-
-For a more recent example of Python code, see my scikit-learn coding exercise in my [machine_learning_exercise repository](https://github.com/powersjohnp/machine_learning_exercise).  
 
 ### R  
 multilevel_modeling.R  
